@@ -128,7 +128,7 @@ I'm a passionate Software Engineering student at the **Institute of Information 
 <p align="left">
   <a href="mailto:bsse1408@iit.du.ac.bd"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hasnain-iit-du/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" /></a> <!-- Add your portfolio -->
+  <a href="https://hasnain-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" /></a> <!-- Add your portfolio -->
 
   <a href="https://www.facebook.com/hasnain.sk.911"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <!-- Add your Facebook profile URL -->
   <!--<a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> --> <!-- Add your Twitter profile URL -->
