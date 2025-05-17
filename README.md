@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1DD6D6&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergraduate;Passionate+about+Problem+Solving;Always+learning+new+things" />
 </p>
 
-<img align="right" width="420" height="320" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
+<img align="right" width="350" height="320" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
 
 
