@@ -9,7 +9,7 @@
 
 <img align="right" width="350" height="320" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
----
+
 
 ### 👨‍💻 About Me:
 I'm a passionate Software Engineering student at the **Institute of Information Technology, University of Dhaka**, with expertise in full-stack development. My technical journey focuses on:
@@ -21,9 +21,11 @@ I'm a passionate Software Engineering student at the **Institute of Information 
 - 🧠 Fun fact: I love coding while listening to instrumental music 🎧
 
 
----
 
-## 🛠️ Skills & Expertise
+<br/>
+<h3> 🛠️ Skills & Expertise</h3> 
+<img align="right" width="100%" height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"> 
+<br/>
 
 <details open>
 <!--   <img align="right" width="100%" height="5" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">  -->
@@ -83,7 +85,10 @@ I'm a passionate Software Engineering student at the **Institute of Information 
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
 
-## GitHub Stats
+
+<h3> GitHub Stats</h3> 
+<img align="right" width="100%" height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"> 
+<br/>
 
 ###
 
